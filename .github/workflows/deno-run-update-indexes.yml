@@ -4,7 +4,7 @@ on:
     branches: "main"
     paths:
       - _data/things.csv
-      - .github/workflows/update-indexes.yml
+      - .github/workflows/deno-run-update-indexes.yml
   workflow_dispatch:
 concurrency:
   group: ${{ github.workflow }}

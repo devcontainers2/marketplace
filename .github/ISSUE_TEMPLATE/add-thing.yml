@@ -7,8 +7,8 @@ body:
     attributes:
       value: |
         [🛍️ View the Marketplace](https://devcontainers.org/marketplace/)
-  - type: specifier
-    id: thing
+  - type: input
+    id: specifier
     attributes:
       label: Specifier
       description: "This can be an OCI reference to one of: a feature, a feature collection, a template, or a template collection."
