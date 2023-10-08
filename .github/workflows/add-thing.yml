@@ -2,6 +2,7 @@ name: Add thing
 on:
   issues:
     types: opened
+concurrency: ${{ github.workflow }}
 jobs:
   add-thing:
     if: contains(github.event.issue.labels.*.name, 'add-thing')
