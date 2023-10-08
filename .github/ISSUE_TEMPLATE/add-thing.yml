@@ -7,10 +7,10 @@ body:
     attributes:
       value: |
         [🛍️ View the Marketplace](https://devcontainers.org/marketplace/)
-  - type: input
+  - type: specifier
     id: thing
     attributes:
-      label: Thing URL
+      label: Specifier
       description: "This can be an OCI reference to one of: a feature, a feature collection, a template, or a template collection."
       placeholder: ghcr.io/octocat/features
     validations:

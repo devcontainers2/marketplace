@@ -1,0 +1,25 @@
+name: Add thing
+on:
+  issues:
+    types: opened
+jobs:
+  add-thing:
+    if: contains(github.event.issue.labels.*.name, 'add-thing')
+    permissions:
+      issues: write
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - id: issue-parser
+        uses: stefanbuck/github-issue-parser@v3
+        with:
+          template-path: .github/ISSUE_TEMPLATE/add-collection.yml
+      - run: echo "$SUBMITTER,$SPECIFIER" >> _data/things.csv
+        env:
+          SUBMITTER: ${{ github.actor }}
+          SPECIFIER: ${{ steps.issue-parser.outputs.issueparser_specifier }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+      - run: gh issue close -c "Added!" ${{ github.event.issue.number }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
