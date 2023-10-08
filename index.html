@@ -122,6 +122,12 @@
               q.value = new URL(location).searchParams.get("q");
             </script>
             <button class="w-42 h-42 p-1 text-xl">🔎</button>
+
+            <a
+              class="ml-8 w-42 h-42 p-1 text-xs text-blue-400 underline underline-offset-8 hover:text-blue-800"
+              href="https://github.com/devcontainers2/marketplace/issues/new?assignees=&labels=add-thing&projects=&template=add-thing.yml&title=Add+my+thing+to+the+Marketplace"
+              >➕ Add yours to this list!</a
+            >
           </div>
 
           <main class="w-full max-w-[1200px] flex flex-col gap-6">
@@ -285,6 +291,8 @@
       </div>
     </form>
 
-    <footer></footer>
+    <footer class="flex items-center justify-center p-2">
+      <p class="py-5"></p>
+    </footer>
   </body>
 </html>
