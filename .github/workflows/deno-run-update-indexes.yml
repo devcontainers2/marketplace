@@ -5,6 +5,8 @@ on:
     paths:
       - _data/things.csv
       - .github/workflows/deno-run-update-indexes.yml
+  schedule:
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 concurrency:
   group: ${{ github.workflow }}

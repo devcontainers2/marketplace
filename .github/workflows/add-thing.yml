@@ -15,7 +15,7 @@ jobs:
       - id: issue-parser
         uses: stefanbuck/github-issue-parser@v3
         with:
-          template-path: .github/ISSUE_TEMPLATE/add-collection.yml
+          template-path: .github/ISSUE_TEMPLATE/add-thing.yml
       - run: echo "$SUBMITTER,$SPECIFIER" >> _data/things.csv
         env:
           SUBMITTER: ${{ github.actor }}
