@@ -116,3 +116,4 @@ submitter,specifier
 @jcbhmr,ghcr.io/raucha/devcontainer-features
 @jcbhmr,ghcr.io/cgi-fr/lino-devcontainer
 @jcbhmr,ghcr.io/cirolosapio/devcontainers-features
+jcbhmr,shouldfail
