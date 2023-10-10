@@ -729,7 +729,6 @@ ghcr.io/jlaundry/devcontainer-features/azure-functions-core-tools,https://github
 ghcr.io/jlaundry/devcontainer-features/mssql-odbc-driver,https://github.com/jlaundry/devcontainer-features/tree/main/src/mssql-odbc-driver,,,,,SQL Server ODBC Driver,Installs the Microsoft SQL Server ODBC Driver.,1.0.1
 ghcr.io/mikaello/devcontainer-features/kotlinc,,,,,,kotlinc,Kotlin compiler and linter (requires Java),1.0.0
 ghcr.io/mikaello/devcontainer-features/modern-shell-utils,,,,,,Modern shell utils,A collection of modern shell utils,1.0.0
-ghcr.io/jsburckhardt/devcontainer-features/azd,,,,,,Azure Development CLI,Azure Developer CLI (azd) is an open-source tool that accelerates the time it takes for you to get your application from local development environment to Azure.,1.0.1
 ghcr.io/jsburckhardt/devcontainer-features/copa,,,,,,Copacetic CLI,Project Copacetic: Directly patch container image vulnerabilities. Copa is a CLI tool written in Go and based on buildkit that can be used to directly patch container images given the vulnerability scanning results from popular tools like Trivy.,1.0.0
 ghcr.io/jsburckhardt/devcontainer-features/crane,,,,,,crane,crane is a tool for interacting with remote images and registries.,1.0.0
 ghcr.io/jsburckhardt/devcontainer-features/cyclonedx,,,,,,CycloneDX CLI,"cyclonedx is a command-line tool for working with Software Bill of Materials (SBOM). It can perform various operations on SBOMs, such as analysis, modification, diffing, merging, format conversion, signing and verification.",1.0.1
