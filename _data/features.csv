@@ -890,6 +890,7 @@ ghcr.io/schlich/cst-devcontainer-feature/container-structure-test,,,,,,Container
 ghcr.io/raucha/devcontainer-features/color,,,,,,My Favorite Color,A feature to remind you of your favorite color,1.0.3
 ghcr.io/raucha/devcontainer-features/hello,,,,,,"Hello, World!",A hello world feature,1.0.2
 ghcr.io/raucha/devcontainer-features/pytorch,,,,,,Pytorch,pytorch feature,1.0.0
+ghcr.io/cirolosapio/devcontainers-features/alpine-aws-cli,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-aws-cli,,,,,alpine-aws-cli,Installs aws-cli on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-bat,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-bat,,,,,alpine-bat,Installs bat on alpine,0.0.7
 ghcr.io/cirolosapio/devcontainers-features/alpine-bottom,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-bottom,,,,,alpine-bottom,Installs bottom on alpine,0.0.2
 ghcr.io/cirolosapio/devcontainers-features/alpine-deno,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-deno,,,,,alpine-deno,Installs deno on alpine,0.0.1
