@@ -883,6 +883,7 @@ ghcr.io/tiwaojo/features/mcap-cli,,,,,,MCAP,Install MCAP-cli built from source,1
 ghcr.io/julialang/devcontainer-features/julia,https://github.com/JuliaLang/devcontainer-features/tree/main/src/julia,,,,,Julia (via Juliaup),Install the Julia programming language,1.1.1
 ghcr.io/robbert229/devcontainer-features/ko,http://github.com/robbert229/devcontainer-features/tree/main/src/ko,,,,,ko,"ko is a simple, fast container image builder for Go applications.",1.0.0
 ghcr.io/robbert229/devcontainer-features/postgresql-client,,,,,,PostgreSQL Client,A feature adding the postgrsql client cli,1.0.0
+ghcr.io/aliuq/devcontainers/hello,,,,,,"Hello, World!",A hello world feature,1.0.0
 ghcr.io/nordcominc/devcontainer-features/android-sdk,,,,,,Android SDK,"Install Android SDK cmdline-, platform-, and, build-tools",1.1.0
 ghcr.io/maks1ms/devcontainers-features/wine,https://github.com/Maks1mS/devcontainers-features/tree/main/src/wine,,,,,Wine,Installs Wine.,0.0.4
 ghcr.io/schlich/cst-devcontainer-feature/container-structure-test,,,,,,Container Structure Tests,Installs the Container Structure Test tool.,1.0.0
