@@ -657,7 +657,7 @@ ghcr.io/devcontainers-contrib/features/yt-dlp,http://github.com/devcontainers-co
 ghcr.io/devcontainers-contrib/features/zig,https://github.com/devcontainers-contrib/features/tree/main/src/zig,,,,,Zig (via ziglang.org),"Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.",1.1.1
 ghcr.io/devcontainers-contrib/features/zsh-plugins,http://github.com/devcontainers-contrib/features/tree/main/src/zsh-plugins,,,,,ZSH Plugins,Install (Oh-My-)ZSH plugins,0.0.4
 ghcr.io/eitsupi/devcontainer-features/duckdb-cli,https://github.com/eitsupi/devcontainer-features/tree/main/src/duckdb-cli,,,,,DuckDB CLI,DuckDB is an in-process SQL OLAP database management system.,1.0.1
-ghcr.io/eitsupi/devcontainer-features/go-task,https://github.com/eitsupi/devcontainer-features/tree/main/src/go-task,,,,,Task,"Installs Task, a task runner / simpler Make alternative.",1.0.2
+ghcr.io/eitsupi/devcontainer-features/go-task,https://github.com/eitsupi/devcontainer-features/tree/main/src/go-task,,,,,Task,"Installs Task, a task runner / simpler Make alternative. Works with 'Taskfile.yml'.",1.0.3
 ghcr.io/eitsupi/devcontainer-features/jq-likes,https://github.com/eitsupi/devcontainer-features/tree/main/src/jq-likes,,,,,"jq, yq, gojq, xq, jaq","Installs jq and jq like command line tools (yq, gojq, xq, jaq).",2.1.0
 ghcr.io/eitsupi/devcontainer-features/julia,https://github.com/eitsupi/devcontainer-features/tree/main/src/julia,,,,,Julia,Installs specific version of Julia.,0.2.1
 ghcr.io/eitsupi/devcontainer-features/just,https://github.com/eitsupi/devcontainer-features/tree/main/src/just,,,,,just,"Installs just, just is a handy way to save and run project-specific commands on justfile.",0.1.1
@@ -895,7 +895,7 @@ ghcr.io/cirolosapio/devcontainers-features/alpine-bat,https://github.com/cirolos
 ghcr.io/cirolosapio/devcontainers-features/alpine-bottom,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-bottom,,,,,alpine-bottom,Installs bottom on alpine,0.0.2
 ghcr.io/cirolosapio/devcontainers-features/alpine-deno,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-deno,,,,,alpine-deno,Installs deno on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-docker-outside-of-docker,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-docker-outside-of-docker,,,,,alpine-docker-outside-of-docker,"Re-use the host docker socket, adding the Docker CLI to alpine container",0.0.8
-ghcr.io/cirolosapio/devcontainers-features/alpine-gh-copilot-cli,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-gh-copilot-cli,,,,,alpine-gh-copilot-cli,Installs Github Copilot CLI on alpine,0.0.2
+ghcr.io/cirolosapio/devcontainers-features/alpine-gh-copilot-cli,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-gh-copilot-cli,,,,,alpine-gh-copilot-cli,Installs Github Copilot CLI on alpine,0.0.3
 ghcr.io/cirolosapio/devcontainers-features/alpine-git,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-git,,,,,alpine-git,Installs git on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-n98-magerun,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-n98-magerun,,,,,alpine-n98-magerun,Installs n98-magerun on alpine,0.0.7
 ghcr.io/cirolosapio/devcontainers-features/alpine-nano,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-nano,,,,,alpine-nano,Installs nano on alpine,0.0.1
