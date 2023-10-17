@@ -766,6 +766,7 @@ ghcr.io/frntn/devcontainers-features/newman,,,,,,Newman,Newman is a command-line
 ghcr.io/frntn/devcontainers-features/postman,,,,,,Postman,Postman CLI is a secure command-line companion for Postman. It is secured and supported by Postman,1.0.0
 ghcr.io/frntn/devcontainers-features/prism,,,,,,Prism,"Prism turns any Swagger/OpenAPI definition and Postman Collection file into an API server with mocking, transformations and validations",1.0.0
 ghcr.io/christophermacgown/devcontainer-features/direnv,,,,,,direnv,"Installs direnv, which augments shells to load an unload environment variables depending on the current directory",1.0.1
+ghcr.io/christophermacgown/devcontainer-features/easy-container-hooks,,,,,,easy-container-hooks,Shell runner that executes hooks in your .devcontainer/hooks/ directory.,1.0.0
 ghcr.io/christophermacgown/devcontainer-features/mcfly,,,,,,mcfly,"Installs mcfly, which replaces your shell history with an intelligent search engine.",1.0.2
 ghcr.io/christophermacgown/devcontainer-features/minio-client,,,,,,minio-client,Installs the minio client,1.0.0
 ghcr.io/balazs23/devcontainers-features/bazel,https://bazel.build/install/bazelisk,,,,,Bazel (via Bazelisk),"Bazel is a fast, scalable, multi-language and extensible build system. For specified version set `USE_BASEL_VERSION` env variable in your devcontainer, see documentation https://github.com/bazelbuild/bazelisk",1.0.1
