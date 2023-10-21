@@ -903,7 +903,7 @@ ghcr.io/cirolosapio/devcontainers-features/alpine-n98-magerun,https://github.com
 ghcr.io/cirolosapio/devcontainers-features/alpine-nano,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-nano,,,,,alpine-nano,Installs nano on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-navi,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-navi,,,,,alpine-navi,Installs navi on alpine,0.0.6
 ghcr.io/cirolosapio/devcontainers-features/alpine-node,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-node,,,,,alpine-node,Installs node and npm on alpine,0.0.7
-ghcr.io/cirolosapio/devcontainers-features/alpine-nushell,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-nushell,,,,,alpine-nushell,Installs nushell on alpine,0.0.7
-ghcr.io/cirolosapio/devcontainers-features/alpine-ohmyzsh,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-ohmyzsh,,,,,alpine-ohmyzsh,Installs ohmyzsh on alpine,0.0.8
+ghcr.io/cirolosapio/devcontainers-features/alpine-nushell,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-nushell,,,,,alpine-nushell,Installs nushell on alpine,0.0.8
+ghcr.io/cirolosapio/devcontainers-features/alpine-ohmyzsh,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-ohmyzsh,,,,,alpine-ohmyzsh,Installs ohmyzsh on alpine,0.0.9
 ghcr.io/cirolosapio/devcontainers-features/alpine-php-pgsql,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-pgsql,,,,,alpine-php-pgsql,Installs pgsql driver for php on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-starship,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-starship,,,,,alpine-starship,Installs starship on alpine,0.0.1
