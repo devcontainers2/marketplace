@@ -20,7 +20,7 @@ ghcr.io/devcontainers/features/node,https://github.com/devcontainers/features/tr
 ghcr.io/devcontainers/features/nvidia-cuda,https://github.com/devcontainers/features/tree/main/src/nvidia-cuda,,,,,NVIDIA CUDA,Installs shared libraries for NVIDIA CUDA.,1.1.0
 ghcr.io/devcontainers/features/oryx,https://github.com/devcontainers/features/tree/main/src/oryx,,,,,Oryx,Installs the oryx CLI,1.1.0
 ghcr.io/devcontainers/features/php,https://github.com/devcontainers/features/tree/main/src/php,,,,,PHP,,1.1.2
-ghcr.io/devcontainers/features/powershell,https://github.com/devcontainers/features/tree/main/src/powershell,,,,,PowerShell,Installs PowerShell along with needed dependencies. Useful for base Dockerfiles that often are missing required install dependencies like gpg.,1.1.1
+ghcr.io/devcontainers/features/powershell,https://github.com/devcontainers/features/tree/main/src/powershell,,,,,PowerShell,Installs PowerShell along with needed dependencies. Useful for base Dockerfiles that often are missing required install dependencies like gpg.,1.2.0
 ghcr.io/devcontainers/features/python,https://github.com/devcontainers/features/tree/main/src/python,,,,,Python,"Installs the provided version of Python, as well as PIPX, and other common Python utilities.  JupyterLab is conditionally installed with the python feature. Note: May require source code compilation.",1.3.1
 ghcr.io/devcontainers/features/ruby,https://github.com/devcontainers/features/tree/main/src/ruby,,,,,Ruby (via rvm),"Installs Ruby, rvm, rbenv, common Ruby utilities, and needed dependencies.",1.1.2
 ghcr.io/devcontainers/features/rust,https://github.com/devcontainers/features/tree/main/src/rust,,,,,Rust,"Installs Rust, common Rust utilities, and their required dependencies",1.1.0
@@ -884,6 +884,7 @@ ghcr.io/elanhasson/devcontainer-features/digitalocean-doctl-cli-persistence,,,,,
 ghcr.io/tiwaojo/features/mcap-cli,,,,,,MCAP,Install MCAP-cli built from source,1.0.0
 ghcr.io/julialang/devcontainer-features/julia,https://github.com/JuliaLang/devcontainer-features/tree/main/src/julia,,,,,Julia (via Juliaup),Install the Julia programming language,1.1.1
 ghcr.io/robbert229/devcontainer-features/ko,http://github.com/robbert229/devcontainer-features/tree/main/src/ko,,,,,ko,"ko is a simple, fast container image builder for Go applications.",1.0.0
+ghcr.io/robbert229/devcontainer-features/opentofu,,,,,,OpenTofu,"OpenTofu is an infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share.",1.0.0
 ghcr.io/robbert229/devcontainer-features/postgresql-client,,,,,,PostgreSQL Client,A feature adding the postgrsql client cli,1.0.0
 ghcr.io/aliuq/devcontainers/hello,,,,,,"Hello, World!",A hello world feature,1.0.0
 ghcr.io/nordcominc/devcontainer-features/android-sdk,,,,,,Android SDK,"Install Android SDK cmdline-, platform-, and, build-tools",1.1.0
