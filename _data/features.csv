@@ -810,7 +810,7 @@ ghcr.io/joedmck/devcontainer-features/cdktf,,,,,,CDK for Terraform CLI (via npm)
 ghcr.io/joedmck/devcontainer-features/cloudflared,,,,,,Cloudflare Tunnel Client,A tunneling daemon that proxies traffic from the Cloudflare network to your origins.,1.0.2
 ghcr.io/joedmck/devcontainer-features/serve,,,,,,Serve (via NPM),Static file serving and directory listing.,1.0.0
 ghcr.io/joedmck/devcontainer-features/wrangler,,,,,,Cloudflare Wrangler CLI (via npm),A command-line tool for building with Cloudflare developer products.,1.0.0
-ghcr.io/codeman99/features/circleci-cli,,,,,,CircleCI CLI,Install the CircleCI CLI. Also installs the CircleCI extension for vscode.,1.1.0
+ghcr.io/codeman99/features/circleci-cli,,,,,,CircleCI CLI,Install the CircleCI CLI. Also installs the CircleCI extension for vscode.,1.2.0
 ghcr.io/codeman99/features/exercism-cli,,,,,,Exercism CLI,Install the exercism-cli.,1.0.0
 ghcr.io/favalos/devcontainer-features/temporalio,,,,,,Temporalio,A Temporal.io feature,1.0.0
 ghcr.io/devcontainers-community/templates/dart,https://github.com/devcontainers-community/templates/tree/main/src/dart,,,,,Dart,"Develop Dart based applications. Includes the Dart SDK, needed extensions, and dependencies.",1.0.0
