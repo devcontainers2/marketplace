@@ -704,7 +704,7 @@ ghcr.io/natescherer/devcontainers-custom-features/hypermodern-python,,,,,,Hyperm
 ghcr.io/natescherer/devcontainers-custom-features/k9s,,,,,,k9s,A feature to install k9s,1.0.0
 ghcr.io/natescherer/devcontainers-custom-features/powershell-resources,,,,,,PowerShell Resources,A feature to install PowerShell resources (modules and scripts) from the PowerShell Gallery for all users on a devcontainer.,1.1.0
 ghcr.io/joshspicer/features/mitm-proxy,,,,,,mitmproxy https proxy,"mitmproxy is a free and open source, terminal-based interactive HTTP(S) proxy.",1.0.3
-ghcr.io/joshspicer/features/oci-utils,,,,,,OCI Container Utils,"Installs useful CLI tools for working with OCI containers, namely skopeo and oras",1.0.4
+ghcr.io/joshspicer/features/oci-utils,,,,,,OCI Container Utils,"Installs useful CLI tools for working with OCI containers, namely skopeo and oras",1.0.5
 ghcr.io/shyim/devcontainers-features/bun,https://github.com/shyim/devcontainers-features/tree/main/src/bun,,,,,bun,Bun is an all-in-one toolkit for JavaScript and TypeScript apps.,0.0.1
 ghcr.io/shyim/devcontainers-features/php,https://github.com/shyim/devcontainers-features/tree/main/src/php,,,,,php,Installs PHP in Debian/Ubuntu based dev containers,0.1.0
 ghcr.io/shyim/devcontainers-features/shopware-cli,https://github.com/shyim/devcontainers-features/tree/main/src/shopware-cli,,,,,shopware-cli,Installs Shopware CLI,0.0.2
