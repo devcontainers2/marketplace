@@ -801,6 +801,7 @@ ghcr.io/ksh5022/devcontainer-features/d2,https://github.com/ksh5022/devcontainer
 ghcr.io/gmkonan/feature/airplane,,,,,,Airplane.dev CLI,A feature to access airplane.dev CLI,1.0.0
 ghcr.io/dapr/cli/dapr-cli,,,,,,dapr-cli,Install the Dapr CLI,0.1.0
 ghcr.io/azutake/devcontainer-features/go-packages-install,,,,,,Go Install Packages,Installs go packages,0.0.2
+ghcr.io/michidk/devcontainers-features/bun,https://github.com/michidk/devcontainers-features/tree/main/src/bun,,,,,bun,"Installs bun, a fast all-in-one JavaScript runtime.",1.0.0
 ghcr.io/michidk/devcontainers-features/typst,https://github.com/michidk/devcontainers-features/tree/main/src/typst,,,,,typst,"Installs typst, a new markup-based typesetting system that is powerful and easy to learn.",0.1.1
 ghcr.io/wxw-matt/devcontainer-features/apt,,,,,,Apt can install packages on Debian-like systems,A feature to install packages on Debian like systems,0.2.1
 ghcr.io/wxw-matt/devcontainer-features/command_runner,,,,,,A Shell Command Runner,"A feature to run any valid shell commands, such as apt-get, curl/wget, of course, bash/zsh",0.5.0
@@ -898,9 +899,9 @@ ghcr.io/cirolosapio/devcontainers-features/alpine-bat,https://github.com/cirolos
 ghcr.io/cirolosapio/devcontainers-features/alpine-bottom,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-bottom,,,,,alpine-bottom,Installs bottom on alpine,0.0.3
 ghcr.io/cirolosapio/devcontainers-features/alpine-broot,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-broot,,,,,alpine-broot,Installs broot on alpine,0.0.3
 ghcr.io/cirolosapio/devcontainers-features/alpine-ctop,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-ctop,,,,,alpine-ctop,Installs ctop on alpine,0.0.2
-ghcr.io/cirolosapio/devcontainers-features/alpine-deno,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-deno,,,,,alpine-deno,Installs deno on alpine,0.0.2
+ghcr.io/cirolosapio/devcontainers-features/alpine-deno,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-deno,,,,,alpine-deno,Installs deno on alpine,0.0.3
 ghcr.io/cirolosapio/devcontainers-features/alpine-docker-outside-of-docker,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-docker-outside-of-docker,,,,,alpine-docker-outside-of-docker,"Re-use the host docker socket, adding the Docker CLI to alpine container",0.0.8
-ghcr.io/cirolosapio/devcontainers-features/alpine-gh-copilot-cli,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-gh-copilot-cli,,,,,alpine-gh-copilot-cli,Installs Github Copilot CLI on alpine,0.0.4
+ghcr.io/cirolosapio/devcontainers-features/alpine-gh-copilot-cli,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-gh-copilot-cli,,,,,alpine-gh-copilot-cli,Installs Github Copilot CLI on alpine,0.0.6
 ghcr.io/cirolosapio/devcontainers-features/alpine-git,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-git,,,,,alpine-git,Installs git on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-n98-magerun,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-n98-magerun,,,,,alpine-n98-magerun,Installs n98-magerun on alpine,0.0.8
 ghcr.io/cirolosapio/devcontainers-features/alpine-nano,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-nano,,,,,alpine-nano,Installs nano on alpine,0.0.1
