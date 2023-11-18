@@ -911,5 +911,6 @@ ghcr.io/cirolosapio/devcontainers-features/alpine-nushell,https://github.com/cir
 ghcr.io/cirolosapio/devcontainers-features/alpine-ohmyzsh,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-ohmyzsh,,,,,alpine-ohmyzsh,Installs ohmyzsh on alpine,0.0.14
 ghcr.io/cirolosapio/devcontainers-features/alpine-openssh,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-openssh,,,,,alpine-openssh,Installs openssh on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-pgsql-client,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-pgsql-client,,,,,alpine-pgsql-client,Installs pgsql client on alpine,0.0.1
+ghcr.io/cirolosapio/devcontainers-features/alpine-php-gd,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-gd,,,,,alpine-php-gd,Installs gd extension for php on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-php-pgsql,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-pgsql,,,,,alpine-php-pgsql,Installs pgsql driver for php on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-starship,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-starship,,,,,alpine-starship,Installs starship on alpine,0.0.1
