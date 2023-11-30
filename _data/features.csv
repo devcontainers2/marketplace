@@ -691,7 +691,6 @@ ghcr.io/customink/codespaces-features/docker-log-level,https://github.com/custom
 ghcr.io/customink/codespaces-features/sam-cli,https://github.com/customink/codespaces-features/tree/main/src/sam-cli,,,,,AWS SAM CLI Utility,The AWS Serverless Application Model (AWS SAM) is an open-source framework that you can use to build serverless applications on AWS.,1.0.1
 ghcr.io/stuartleeks/dev-container-features/azure-cli-persistence,,,,,,Azure CLI Persistence,Preserve ~/.azure folder across container instances (avoids needing to login after rebuilding),0.0.4
 ghcr.io/stuartleeks/dev-container-features/shell-history,,,,,,Shell History,"Preserve shell history across dev container instances. Currently supports bash, zsh, and fish",0.0.3
-ghcr.io/guiyomh/features/dagger-cue,https://github.com/guiyomh/features/tree/main/src/dagger-cue,,,,,dagger-cue,Installs dagger CI/CD engine that runs your pipelines in containers.,0.0.1
 ghcr.io/guiyomh/features/golangci-lint,,,,,,golangci-lint,Install a fast Go linters,0.1.1
 ghcr.io/guiyomh/features/gomarkdoc,,,,,,gomarkdoc, formats documentation for one or more packages as markdown.,0.1.0
 ghcr.io/guiyomh/features/goreleaser,,,,,,goreleaser,"Install Goreleaser, to release Go projects as fast and easily as possible!",0.1.1
