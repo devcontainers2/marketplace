@@ -714,7 +714,7 @@ ghcr.io/jungaretti/features/ripgrep,,,,,,ripgrep,"Installs ripgrep, which recurs
 ghcr.io/jungaretti/features/vim,,,,,,vim,"Installs vim, which is a terminal text editor",1.0.0
 ghcr.io/tlc-sundown/devcontainers-features/msquic,https://github.com/tlc-sundown/devcontainers-features/tree/main/src/msquic,,,,,msquic,A feature to install the MsQuic library,1.0.0
 ghcr.io/enricosecondulfo/devcontainer-features/volta,,,,,,Volta,"Installs Volta, the hassle-free JavaScript tool manager",1.0.0
-ghcr.io/saml-to/devcontainer-features/assume-aws-role,,,,,,Assume AWS Role,Assume an AWS role using SAML.to,2.0.0
+ghcr.io/saml-to/devcontainer-features/assume-aws-role,,,,,,Assume AWS Role,Assume an AWS role using SAML.to,2.0.1
 ghcr.io/rjfmachado/devcontainer-features/cloud-native,https://github.com/rjfmachado/devcontainer-features/tree/main/src/cloud-native,,,,,Cloud Native development environment tools,"Installs latest version of kubectl, Helm, kubelogin, azwi, flux and cilium cli. Auto-detects latest versions and installs needed dependencies.",1.0.7
 ghcr.io/lukewiwa/features/shellcheck,,,,,,Shellcheck,A static analysis tool for shell scripts,0.2.3
 ghcr.io/lukewiwa/features/wait-for-it,,,,,,wait-for-it,"wait-for-it.sh is a pure bash script that will wait on the availability of a host and TCP port. It is useful for synchronizing the spin-up of interdependent services, such as linked docker containers. Since it is a pure bash script, it does not have any external dependencies.",0.1.1
