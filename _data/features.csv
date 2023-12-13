@@ -136,6 +136,7 @@ ghcr.io/devcontainers-contrib/features/cloudinary-cli,http://github.com/devconta
 ghcr.io/devcontainers-contrib/features/cmctl-asdf,http://github.com/devcontainers-contrib/features/tree/main/src/cmctl-asdf,,,,,cmctl (via asdf),cmctl is a command line tool that can help you manage cert-manager and its resources inside your cluster.,2.0.14
 ghcr.io/devcontainers-contrib/features/codefresh-cli,http://github.com/devcontainers-contrib/features/tree/main/src/codefresh-cli,,,,,Codefresh CLI (via Github Releases),Codefresh CLI provides a full and flexible interface to interact with Codefresh.,1.0.7
 ghcr.io/devcontainers-contrib/features/codenotary-cas,http://github.com/devcontainers-contrib/features/tree/main/src/codenotary-cas,,,,,Codenotary Community Attestation Service (CAS) (via Github Releases),"Community Attestation Service (CAS) can give any digital asset a meaningful, globally-unique, immutable identity that is authentic, verifiable, traceable from anywhere.",1.0.9
+ghcr.io/devcontainers-contrib/features/composer,http://github.com/devcontainers-contrib/features/tree/main/src/composer,,,,,Composer (via Github Releases),Composer is an open source dependency management tool for PHP.,1.0.0
 ghcr.io/devcontainers-contrib/features/concurnas-sdkman,http://github.com/devcontainers-contrib/features/tree/main/src/concurnas-sdkman,,,,,Concurnas (via SDKMAN),"Concurnas is an open source JVM programming language designed for building
 reliable, scalable, high performance concurrent, distributed and parallel
 systems.",2.0.14
@@ -560,7 +561,7 @@ ghcr.io/devcontainers-contrib/features/spicedb,http://github.com/devcontainers-c
 ghcr.io/devcontainers-contrib/features/springboot-sdkman,http://github.com/devcontainers-contrib/features/tree/main/src/springboot-sdkman,,,,,Spring Boot (via SDKMAN),"Spring Boot takes an opinionated view of building production-ready Spring
 applications. It favors convention over configuration and is designed to get you
 up and running as quickly as possible.",2.0.15
-ghcr.io/devcontainers-contrib/features/sqlfluff,http://github.com/devcontainers-contrib/features/tree/main/src/sqlfluff,,,,,SqlFluff (via pipx),Fluff is an extensible and modular linter designed to help you write good SQL and catch errors and bad SQL before it hits your database.,1.0.1
+ghcr.io/devcontainers-contrib/features/sqlfluff,http://github.com/devcontainers-contrib/features/tree/main/src/sqlfluff,,,,,SqlFluff (via pipx),Fluff is an extensible and modular linter designed to help you write good SQL and catch errors and bad SQL before it hits your database.,1.0.2
 ghcr.io/devcontainers-contrib/features/sqlfmt,http://github.com/devcontainers-contrib/features/tree/main/src/sqlfmt,,,,,sqlfmt (via pipx),sqlfmt formats your dbt SQL files so you don't have to.,1.0.1
 ghcr.io/devcontainers-contrib/features/squarespace-server,http://github.com/devcontainers-contrib/features/tree/main/src/squarespace-server,,,,,Squarespace Local Development Server (via npm),"The Squarespace local development server is a command line tool that sets up a test server on your computer, allowing you to see changes to your template before making them live",1.0.1
 ghcr.io/devcontainers-contrib/features/sshoogr-sdkman,http://github.com/devcontainers-contrib/features/tree/main/src/sshoogr-sdkman,,,,,Sshoogr (via SDKMAN),"Sshoogr is a Groovy based DSL and command line tool for working with remote
@@ -900,6 +901,7 @@ ghcr.io/cirolosapio/devcontainers-features/alpine-bat,https://github.com/cirolos
 ghcr.io/cirolosapio/devcontainers-features/alpine-bottom,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-bottom,,,,,alpine-bottom,Installs bottom on alpine,0.0.4
 ghcr.io/cirolosapio/devcontainers-features/alpine-broot,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-broot,,,,,alpine-broot,Installs broot on alpine,0.0.3
 ghcr.io/cirolosapio/devcontainers-features/alpine-ctop,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-ctop,,,,,alpine-ctop,Installs ctop on alpine,0.0.2
+ghcr.io/cirolosapio/devcontainers-features/alpine-curl,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-curl,,,,,alpine-curl,Installs curl on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-deno,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-deno,,,,,alpine-deno,Installs deno on alpine,0.0.3
 ghcr.io/cirolosapio/devcontainers-features/alpine-docker-outside-of-docker,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-docker-outside-of-docker,,,,,alpine-docker-outside-of-docker,"Re-use the host docker socket, adding the Docker CLI to alpine container",0.0.8
 ghcr.io/cirolosapio/devcontainers-features/alpine-gh-copilot-cli,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-gh-copilot-cli,,,,,alpine-gh-copilot-cli,Installs Github Copilot CLI on alpine,0.0.8
