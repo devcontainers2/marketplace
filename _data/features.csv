@@ -39,7 +39,7 @@ ghcr.io/rocker-org/devcontainer-features/r-rig,https://github.com/rocker-org/dev
 ghcr.io/rocker-org/devcontainer-features/renv-cache,https://github.com/rocker-org/devcontainer-features/tree/main/src/renv-cache,,,,,renv cache,Install the renv R package and set renv cache to a Docker volume. Cache is shared by all containers.,0.1.1
 ghcr.io/rocker-org/devcontainer-features/rstudio-server,https://github.com/rocker-org/devcontainer-features/tree/main/src/rstudio-server,,,,,RStudio Server,"Installs the RStudio Server, enables to run the RStudio IDE on the browser.",0.3.0
 ghcr.io/meaningful-ooo/devcontainer-features/fish,https://github.com/meaningful-ooo/devcontainer-features/tree/main/src/fish,,,,,fish,Installs fish shell and Fisher plugin manager (optionally),1.2.1
-ghcr.io/meaningful-ooo/devcontainer-features/homebrew,https://github.com/meaningful-ooo/devcontainer-features/tree/main/src/homebrew,,,,,Homebrew,Installs Homebrew,2.0.3
+ghcr.io/meaningful-ooo/devcontainer-features/homebrew,https://github.com/meaningful-ooo/devcontainer-features/tree/main/src/homebrew,,,,,Homebrew,Installs Homebrew,2.0.4
 ghcr.io/mpriscella/features/fastly,https://github.com/mpriscella/features/tree/main/src/fastly,,,,,Fastly,Installs the Fastly CLI,1.0.1
 ghcr.io/mpriscella/features/helm-chart-testing,https://github.com/mpriscella/features/tree/main/src/helm-chart-testing,,,,,Helm Chart Testing,Installs the Helm Chart Testing tool,1.0.0
 ghcr.io/mpriscella/features/kind,https://github.com/mpriscella/features/tree/main/src/kind,,,,,Kind,Install Kind,1.0.1
