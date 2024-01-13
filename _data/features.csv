@@ -777,6 +777,7 @@ ghcr.io/christophermacgown/devcontainer-features/minio-client,,,,,,minio-client,
 ghcr.io/balazs23/devcontainers-features/bazel,https://bazel.build/install/bazelisk,,,,,Bazel (via Bazelisk),"Bazel is a fast, scalable, multi-language and extensible build system. For specified version set `USE_BASEL_VERSION` env variable in your devcontainer, see documentation https://github.com/bazelbuild/bazelisk",1.0.1
 ghcr.io/balazs23/devcontainers-features/nx,https://nx.dev,,,,,Nx (via npm),Nx is a next generation build system with first class monorepo support and powerful integrations.,1.0.1
 ghcr.io/mickeahlinder/devcontainer-features/tfenv,,,,,,tfenv,Installs the Terraform version manager,1.1.0
+ghcr.io/jckimble/devcontainer-features/hledger,,,,,,hledger,"Robust, intuitive plain text accounting",1.32.2
 ghcr.io/jckimble/devcontainer-features/ngrok,,,,,,Ngrok,"A tunneling, reverse proxy for developing and understanding networked, HTTP services",3.1.1
 ghcr.io/r3dpoint/devcontainer-features/tailwindcss-standalone-cli,,,,,,TailwindCSS Standalone CLI,Standalone CLI: Use Tailwind CSS without Node.js,1.0.1
 ghcr.io/akhildevelops/devcontainer-features/android-cli,,,,,,Android SDK Platform Tools,Provides Android Tools,0.0.2
