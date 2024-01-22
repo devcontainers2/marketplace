@@ -752,10 +752,10 @@ ghcr.io/ebaskoro/devcontainer-features/sdkman,https://github.com/ebaskoro/devcon
 ghcr.io/warrenbuckley/codespace-features/smtp4dev,,,,,,SMTP4Dev: A dotnet test email SMTP server,Installs SMTP4Dev using 'dotnet tool install' into the devcontainer and maps the port,1.0.0
 ghcr.io/warrenbuckley/codespace-features/sqlite,,,,,,SQLite,Installs SQLite into the devcontainer and uses the SQLite VSCode extension,1.0.0
 ghcr.io/roost-io/features/roost,,,,,,Roost Cluster Creation,A feature to create kubernetes cluster using Roost.,1.0.0
-ghcr.io/lentzi90/features/clusterctl,,,,,,Clusterctl,The CLI for Cluster API.,0.1.1
-ghcr.io/lentzi90/features/kubeadm,,,,,,Kubeadm,"Kubeadm, nothing more, nothing less, just the binary.",0.1.1
-ghcr.io/lentzi90/features/kwok,,,,,,KWOK,KWOK (Kubernetes WithOut Kubelet). This installs both kwok and kwokctl.,0.1.0
-ghcr.io/lentzi90/features/tilt,,,,,,Tilt,Toolkit for microservice development.,0.1.1
+ghcr.io/lentzi90/features/clusterctl,,,,,,Clusterctl,The CLI for Cluster API.,0.1.2
+ghcr.io/lentzi90/features/kubeadm,,,,,,Kubeadm,"Kubeadm, nothing more, nothing less, just the binary.",0.1.2
+ghcr.io/lentzi90/features/kwok,,,,,,KWOK,KWOK (Kubernetes WithOut Kubelet). This installs both kwok and kwokctl.,0.1.1
+ghcr.io/lentzi90/features/tilt,,,,,,Tilt,Toolkit for microservice development.,0.1.2
 ghcr.io/robsyme/features/nextflow,,,,,,Nextflow,Nextflow feature,1.0.0
 ghcr.io/robsyme/features/nf-test,,,,,,nf-test,Simple test framework for Nextflow pipelines,1.0.0
 ghcr.io/shinepukur/devcontainer-features/vale,,,,,,Vale doc linter,"Install Vale, a syntax-aware linter for prose",1.0.0
