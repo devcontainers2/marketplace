@@ -89,7 +89,7 @@ ghcr.io/standard-io/devcontainers-templates/python3-poetry-pyenv,https://github.
 ghcr.io/ijnek/ros-devcontainer-template/ros,,,,,,ROS,A ROS Template,0.0.12
 ghcr.io/swift-server/swift-devcontainer-template/swift,https://github.com/swift-server/swift-devcontainer-template/tree/main/README.md,,,,,Swift,Develop Swift based applications. Includes everything you need to get up and running.,2.2.0
 ghcr.io/hamishwhc/cs3231-devcontainer/cs3231,https://github.com/HamishWHC/cs3231-devcontainer/blob/main/README.md,,,,,UNSW cs3231 OS Development,A container for developing OS161 in cs3231 at UNSW.,1.0.0
-ghcr.io/multiversx/mx-template-devcontainers/smart-contracts-rust,https://github.com/multiversx/mx-template-devcontainers/blob/main/src/smart-contracts-rust,,,,,MultiversX: Smart Contracts Development (Rust),"Develop smart contracts for MultiversX. Includes Rust, mxpy, VSCode extensions etc.",0.1.6
+ghcr.io/multiversx/mx-template-devcontainers/smart-contracts-rust,https://github.com/multiversx/mx-template-devcontainers/blob/main/src/smart-contracts-rust,,,,,MultiversX: Smart Contracts Development (Rust),"Develop smart contracts for MultiversX. Includes Rust, mxpy, VSCode extensions etc.",0.2.0
 ghcr.io/jmuchovej/templates/latex,https://github.com/jmuchovej/containers/tree/main/templates/latex/,,,,,LaTeX devcontainer,LaTeX Devcontainer with customizable LaTeX engine.,1.0.0
 ghcr.io/purton-tech/rust-on-nails/rust-on-nails,https://rust-on-nails.com,,,,,Rust on Nails,Build full stack web applications in Rust https://rust-on-nails.com,1.0.0
 ghcr.io/cascode-labs/viper-ic-devcontainers/viper-ic,https://github.com/cascode-labs/viper-ic-devcontainers,,,,,Viper Integrated Circuit Design Environment,An integrated circuit design environment,0.1.0
