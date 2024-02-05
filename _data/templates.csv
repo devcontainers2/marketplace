@@ -99,6 +99,7 @@ ghcr.io/vvv-interactive/ibdev/ic,https://github.com/vvv-interactive/ibdev/,,,,,I
 ghcr.io/jayree/devcontainer-templates/sf-project,https://github.com/jayree/devcontainer-templates/tree/main/src/sf-project,,,,,Salesforce DX project,A template for Salesforce DX projects,1.0.2
 ghcr.io/nafnix/devcontainers-templates/basic-nodejs,https://github.com/nafnix/devcontainers-templates/tree/main/src/basic-nodejs,,,,,Basic Node.js,A basic Node.js development container.,0.0.1
 ghcr.io/nafnix/devcontainers-templates/basic-python,https://github.com/nafnix/devcontainers-templates/tree/main/src/python3,,,,,Basic Python,A basic Python development container.,0.0.2
+ghcr.io/nafnix/devcontainers-templates/hugo-pnpm,https://github.com/nafnix/devcontainers-templates/tree/main/src/hugo-pnpm,,,,,Hugo & pnpm,带有 pnpm 的 Hugo 开发容器，默认 pnpm 安装 LTS 版 nodejs,0.0.1
 ghcr.io/nafnix/devcontainers-templates/python3-pdm-pyenv,https://github.com/nafnix/devcontainers-templates/tree/main/src/python3-pdm-pyenv,,,,,python3 & pyenv & pdm,一个基于 debian 的 devcontainer，默认带有通过 pyenv 获取的 python 和 pdm。,0.0.9
 ghcr.io/microsoft/datascience-py-r/datascience-python-r,https://github.com/microsoft/datascience-py-r,,,,,Data Science with Python and R,"Data science development with Python and R tools. Installs dependencies from requirements.txt file, and the Python, Jupyter, and R extensions.",1.0.0
 ghcr.io/wpdevenv/dev_container_templates/wp-mysql,https://github.com/wpdevenv/dev_container_templates/tree/main/src/wp-mysql,,,,,WP & MySQL,Develop WP applications with MySQL.,0.1.1
