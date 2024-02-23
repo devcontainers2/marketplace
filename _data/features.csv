@@ -895,6 +895,7 @@ ghcr.io/tiwaojo/features/mcap-cli,,,,,,MCAP,Install MCAP-cli built from source,1
 ghcr.io/julialang/devcontainer-features/julia,https://github.com/JuliaLang/devcontainer-features/tree/main/src/julia,,,,,Julia (via Juliaup),Install the Julia programming language,1.1.1
 ghcr.io/robbert229/devcontainer-features/ko,http://github.com/robbert229/devcontainer-features/tree/main/src/ko,,,,,ko,"ko is a simple, fast container image builder for Go applications.",1.0.0
 ghcr.io/robbert229/devcontainer-features/opentofu,,,,,,OpenTofu,"OpenTofu is an infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share.",1.0.0
+ghcr.io/robbert229/devcontainer-features/operator-sdk,,,,,,OperatorSDK,"A feature adding [operator-sdk](https://sdk.operatorframework.io/), a component of the [Operator Framework](https://github.com/operator-framework), an open source toolkit to manage kubernetes operators.",1.0.0
 ghcr.io/robbert229/devcontainer-features/postgresql-client,,,,,,PostgreSQL Client,A feature adding the postgrsql client cli,1.0.0
 ghcr.io/aliuq/devcontainers/hello,,,,,,"Hello, World!",A hello world feature,1.0.0
 ghcr.io/nordcominc/devcontainer-features/android-sdk,,,,,,Android SDK,"Install Android SDK cmdline-, platform-, and, build-tools",1.1.0
