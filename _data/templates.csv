@@ -93,6 +93,8 @@ ghcr.io/multiversx/mx-template-devcontainers/smart-contracts-rust,https://github
 ghcr.io/jmuchovej/templates/latex,https://github.com/jmuchovej/containers/tree/main/templates/latex/,,,,,LaTeX devcontainer,LaTeX Devcontainer with customizable LaTeX engine.,1.0.0
 ghcr.io/purton-tech/rust-on-nails/rust-on-nails,https://rust-on-nails.com,,,,,Rust on Nails,Build full stack web applications in Rust https://rust-on-nails.com,1.0.0
 ghcr.io/cascode-labs/viper-ic-devcontainers/viper-ic,https://github.com/cascode-labs/viper-ic-devcontainers,,,,,Viper Integrated Circuit Design Environment,An integrated circuit design environment,0.1.0
+ghcr.io/devcontainers-community/templates/dart,https://github.com/devcontainers-community/templates/tree/main/src/dart,,,,,Dart,"Develop Dart based applications. Includes the Dart SDK, needed extensions, and dependencies.",1.0.0
+ghcr.io/devcontainers-community/templates/jupyter-datascience-notebooks,https://github.com/devcontainers-community/templates-jupyter-datascience-notebooks,,,,,Jupyter Data Science Notebooks,"Use Jupyter Data Science Notebooks with Python, R, Julia, and more.",2.0.0
 ghcr.io/vvv-interactive/ibdev/ic,https://github.com/vvv-interactive/ibdev/,,,,,Internet Computer,Develop decentralized web3 dapps,1.7.0
 ghcr.io/jayree/devcontainer-templates/sf-project,https://github.com/jayree/devcontainer-templates/tree/main/src/sf-project,,,,,Salesforce DX project,A template for Salesforce DX projects,1.0.2
 ghcr.io/nafnix/devcontainers-templates/basic-nodejs,https://github.com/nafnix/devcontainers-templates/tree/main/src/basic-nodejs,,,,,Basic Node.js,A basic Node.js development container.,0.0.1
