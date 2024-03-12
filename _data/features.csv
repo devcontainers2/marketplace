@@ -927,6 +927,7 @@ ghcr.io/cirolosapio/devcontainers-features/alpine-pgsql-client,https://github.co
 ghcr.io/cirolosapio/devcontainers-features/alpine-php-composer,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-composer,,,,,alpine-php-composer,Installs php composer on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-php-gd,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-gd,,,,,alpine-php-gd,Installs gd extension for php on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-php-intl,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-intl,,,,,alpine-php-intl,Installs intl for php on alpine,0.0.2
+ghcr.io/cirolosapio/devcontainers-features/alpine-php-pcntl,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-pcntl,,,,,alpine-php-pcntl,Installs pcntl extension for php on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-php-pgsql,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-pgsql,,,,,alpine-php-pgsql,Installs pgsql driver for php on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-php-xdebug,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-xdebug,,,,,alpine-php-xdebug,Installs php xdebug on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-starship,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-starship,,,,,alpine-starship,Installs starship on alpine,0.0.2
