@@ -909,6 +909,7 @@ ghcr.io/cirolosapio/devcontainers-features/alpine-aws-cli,https://github.com/cir
 ghcr.io/cirolosapio/devcontainers-features/alpine-bat,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-bat,,,,,alpine-bat,Installs bat on alpine,0.0.8
 ghcr.io/cirolosapio/devcontainers-features/alpine-bottom,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-bottom,,,,,alpine-bottom,Installs bottom on alpine,0.0.4
 ghcr.io/cirolosapio/devcontainers-features/alpine-broot,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-broot,,,,,alpine-broot,Installs broot on alpine,0.0.3
+ghcr.io/cirolosapio/devcontainers-features/alpine-bun,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-bun,,,,,alpine-bun,Installs bun on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-ctop,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-ctop,,,,,alpine-ctop,Installs ctop on alpine,0.0.2
 ghcr.io/cirolosapio/devcontainers-features/alpine-curl,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-curl,,,,,alpine-curl,Installs curl on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-deno,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-deno,,,,,alpine-deno,Installs deno on alpine,0.0.5
