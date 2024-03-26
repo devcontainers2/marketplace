@@ -808,8 +808,9 @@ ghcr.io/ksh5022/devcontainer-features/d2,https://github.com/ksh5022/devcontainer
 ghcr.io/gmkonan/feature/airplane,,,,,,Airplane.dev CLI,A feature to access airplane.dev CLI,1.0.0
 ghcr.io/dapr/cli/dapr-cli,,,,,,dapr-cli,Install the Dapr CLI,0.1.0
 ghcr.io/azutake/devcontainer-features/go-packages-install,,,,,,Go Install Packages,Installs go packages,0.0.2
-ghcr.io/michidk/devcontainers-features/bun,https://github.com/michidk/devcontainers-features/tree/main/src/bun,,,,,bun,"Installs bun, a fast all-in-one JavaScript runtime.",1.0.0
-ghcr.io/michidk/devcontainers-features/typst,https://github.com/michidk/devcontainers-features/tree/main/src/typst,,,,,typst,"Installs typst, a new markup-based typesetting system that is powerful and easy to learn.",0.1.2
+ghcr.io/michidk/devcontainers-features/bun,https://github.com/michidk/devcontainers-features/tree/main/src/bun,,,,,bun,"Installs bun, a fast all-in-one JavaScript runtime.",1.0.1
+ghcr.io/michidk/devcontainers-features/typos,https://github.com/michidk/devcontainers-features/tree/main/src/typos,,,,,typos,"Installs typos, a fast source code spell checker.",1.0.0
+ghcr.io/michidk/devcontainers-features/typst,https://github.com/michidk/devcontainers-features/tree/main/src/typst,,,,,typst,"Installs typst, a new markup-based typesetting system that is powerful and easy to learn.",1.0.0
 ghcr.io/wxw-matt/devcontainer-features/apt,,,,,,Apt can install packages on Debian-like systems,A feature to install packages on Debian like systems,0.2.1
 ghcr.io/wxw-matt/devcontainer-features/command_runner,,,,,,A Shell Command Runner,"A feature to run any valid shell commands, such as apt-get, curl/wget, of course, bash/zsh",0.5.0
 ghcr.io/wxw-matt/devcontainer-features/script_runner,,,,,,A Remote Shell Scripts Runner,A feature to load and run remote shell scripts,0.5.0
