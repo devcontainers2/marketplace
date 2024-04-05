@@ -916,7 +916,8 @@ ghcr.io/cirolosapio/devcontainers-features/alpine-ctop,https://github.com/cirolo
 ghcr.io/cirolosapio/devcontainers-features/alpine-curl,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-curl,,,,,alpine-curl,Installs curl on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-deno,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-deno,,,,,alpine-deno,Installs deno on alpine,0.0.5
 ghcr.io/cirolosapio/devcontainers-features/alpine-docker-outside-of-docker,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-docker-outside-of-docker,,,,,alpine-docker-outside-of-docker,"Re-use the host docker socket, adding the Docker CLI to alpine container",0.0.9
-ghcr.io/cirolosapio/devcontainers-features/alpine-gh-copilot-cli,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-gh-copilot-cli,,,,,alpine-gh-copilot-cli,Installs Github Copilot CLI on alpine,0.0.8
+ghcr.io/cirolosapio/devcontainers-features/alpine-gh-cli,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-gh-cli,,,,,alpine-gh-cli,Installs github cli on alpine,0.0.1
+ghcr.io/cirolosapio/devcontainers-features/alpine-gh-copilot-cli,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-gh-copilot-cli,,,,,alpine-gh-copilot-cli,Installs Github Copilot CLI on alpine,0.0.9
 ghcr.io/cirolosapio/devcontainers-features/alpine-git,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-git,,,,,alpine-git,Installs git on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-mage2postman,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-mage2postman,,,,,alpine-mage2postman,Installs mage2postman on alpine,0.0.2
 ghcr.io/cirolosapio/devcontainers-features/alpine-magento-cloud-cli,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-magento-cloud-cli,,,,,alpine-magento-cloud-cli,Installs magento-cloud-cli on alpine,0.0.2
@@ -925,7 +926,7 @@ ghcr.io/cirolosapio/devcontainers-features/alpine-nano,https://github.com/cirolo
 ghcr.io/cirolosapio/devcontainers-features/alpine-navi,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-navi,,,,,alpine-navi,Installs navi on alpine,0.0.7
 ghcr.io/cirolosapio/devcontainers-features/alpine-node,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-node,,,,,alpine-node,Installs node and npm on alpine,0.0.9
 ghcr.io/cirolosapio/devcontainers-features/alpine-nushell,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-nushell,,,,,alpine-nushell,Installs nushell on alpine,0.0.8
-ghcr.io/cirolosapio/devcontainers-features/alpine-ohmyzsh,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-ohmyzsh,,,,,alpine-ohmyzsh,Installs ohmyzsh on alpine,0.0.14
+ghcr.io/cirolosapio/devcontainers-features/alpine-ohmyzsh,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-ohmyzsh,,,,,alpine-ohmyzsh,Installs ohmyzsh on alpine,0.0.16
 ghcr.io/cirolosapio/devcontainers-features/alpine-openssh,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-openssh,,,,,alpine-openssh,Installs openssh on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-patch,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-patch,,,,,alpine-patch,Installs patch on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-pgsql-client,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-pgsql-client,,,,,alpine-pgsql-client,Installs pgsql client on alpine,0.0.1
