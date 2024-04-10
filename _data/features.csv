@@ -894,7 +894,7 @@ ghcr.io/marcozac/devcontainer-features/protoc-gen-entgrpc,https:/github.com/marc
 ghcr.io/marcozac/devcontainer-features/shellcheck,https://github.com/marcozac/devcontainer-features/tree/main/src/shellcheck,,,,,ShellCheck (via Github Releases),[ShellCheck](https://github.com/koalaman/shellcheck) - A shell script static analysis tool.,1.0.0
 ghcr.io/elanhasson/devcontainer-features/digitalocean-doctl-cli-persistence,,,,,,Persistence for DigitalOcean doctl CLI,Avoid extra logins from the DigitalOcean CLI (doctl) by preserving the `~/.config/doctl` folder across container instances.,1.1.0
 ghcr.io/elanhasson/devcontainer-features/dotnet-aspire-daily,,,,,,.NET Aspire Daily Builds,Installs the .NET Aspire Daily Builds. See: https://github.com/dotnet/aspire/blob/main/docs/using-latest-daily.md,1.0.0
-ghcr.io/tiwaojo/features/mcap-cli,,,,,,MCAP,Install MCAP-cli built from source,1.0.0
+ghcr.io/tiwaojo/features/mcap-cli,,,,,,MCAP,Install MCAP-cli built from source,1.0.1
 ghcr.io/julialang/devcontainer-features/julia,https://github.com/JuliaLang/devcontainer-features/tree/main/src/julia,,,,,Julia (via Juliaup),Install the Julia programming language,1.1.1
 ghcr.io/robbert229/devcontainer-features/ko,http://github.com/robbert229/devcontainer-features/tree/main/src/ko,,,,,ko,"ko is a simple, fast container image builder for Go applications.",1.0.0
 ghcr.io/robbert229/devcontainer-features/opentofu,,,,,,OpenTofu,"OpenTofu is an infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share.",1.0.0
