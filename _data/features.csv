@@ -17,7 +17,7 @@ ghcr.io/devcontainers/features/java,https://github.com/devcontainers/features/tr
 ghcr.io/devcontainers/features/kubectl-helm-minikube,https://github.com/devcontainers/features/tree/main/src/kubectl-helm-minikube,,,,,"Kubectl, Helm, and Minikube","Installs latest version of kubectl, Helm, and optionally minikube. Auto-detects latest versions and installs needed dependencies.",1.1.9
 ghcr.io/devcontainers/features/nix,https://github.com/devcontainers/features/tree/main/src/nix,,,,,Nix Package Manager,Installs the Nix package manager and optionally a set of packages.,1.2.0
 ghcr.io/devcontainers/features/node,https://github.com/devcontainers/features/tree/main/src/node,,,,,"Node.js (via nvm), yarn and pnpm","Installs Node.js, nvm, yarn, pnpm, and needed dependencies.",1.4.1
-ghcr.io/devcontainers/features/nvidia-cuda,https://github.com/devcontainers/features/tree/main/src/nvidia-cuda,,,,,NVIDIA CUDA,Installs shared libraries for NVIDIA CUDA.,1.1.0
+ghcr.io/devcontainers/features/nvidia-cuda,https://github.com/devcontainers/features/tree/main/src/nvidia-cuda,,,,,NVIDIA CUDA,Installs shared libraries for NVIDIA CUDA.,1.1.1
 ghcr.io/devcontainers/features/oryx,https://github.com/devcontainers/features/tree/main/src/oryx,,,,,Oryx,Installs the oryx CLI,1.3.2
 ghcr.io/devcontainers/features/php,https://github.com/devcontainers/features/tree/main/src/php,,,,,PHP,,1.1.3
 ghcr.io/devcontainers/features/powershell,https://github.com/devcontainers/features/tree/main/src/powershell,,,,,PowerShell,Installs PowerShell along with needed dependencies. Useful for base Dockerfiles that often are missing required install dependencies like gpg.,1.3.5
