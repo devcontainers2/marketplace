@@ -831,32 +831,33 @@ ghcr.io/devcontainers-community/features/llvm,https://github.com/devcontainers-c
 ghcr.io/devcontainers-community/features/deno,,,,,,Deno,Installs Deno,1.1.0
 ghcr.io/devcontainers-community/npm-features/prettier,http://github.com/devcontainers-community/npm-features/tree/main/src/prettier,,,,,Prettier,Installs prettier and plugins globally,1.1.0
 ghcr.io/devcontainers-community/npm-features/typescript,http://github.com/devcontainers-community/npm-features/tree/main/src/typescript,,,,,TypeScript,Installs TypeScript globally,1.1.0
-ghcr.io/lee-orr/rusty-dev-containers/bacon,,,,,,Bacon,A feature to install bacon,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/cargo-audit,,,,,,Cargo Audit,A feature to install cargo audit,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/cargo-binstall,,,,,,Cargo Binstall,A feature to install cargo binstall,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/cargo-bundle,,,,,,cargo-bundle,A feature to install cargo-bundle,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/cargo-deny,,,,,,Cargo Deny,A feature to install cargo deny,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/cargo-expand,,,,,,Cargo Expand,A feature to install cargo expand,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/cargo-make,,,,,,cargo-make,A feature to install cargo-make,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/cargo-mobile,,,,,,cargo-mobile,A feature to install cargo-mobile,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/cargo-nextest,,,,,,cargo-nextest,A feature to install cargo-nextest,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/cargo-watch,,,,,,Cargo Watch,A feature to install cargo watch,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/cargo-web,,,,,,Cargo Web,A feature to install cargo web,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/cosmonic,,,,,,Cosmonic,A feature to install Cosmonic,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/dexterous_developer,,,,,,Dexterous Developer,"A feature to install the dexterous_developer cli, a hot reload system for the bevy game engine, as well as the dependencies for compiling bevy on linux.",0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/dioxus,,,,,,Dioxus,A feature to install dioxus,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/fermyon-spin,,,,,,Fermyon Spin,A feature to install Fermyon Spin,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/helix,,,,,,Helix,A feature to install Helix,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/honggfuzz,,,,,,Honggfuzz,A feature to install honggfuzz,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/mprocs,,,,,,Mprocs,A feature to install mprocs,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/rust_windows_msvc,,,,,,Rust Windows MSVC,"A feature to install xwin & the x86_64-pc-windows-msvc target, allowing cross compilation of windows executables",0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/sccache,,,,,,sccache,A feature to install sccache,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/spin-message-trigger,,,,,,Spin Message Trigger,A feature to install spin message trigger,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/wasm-bindgen-cli,,,,,,wasm bindgen cli,A feature to install wasm-bingen-cli,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/wasm-server-runner,,,,,,Wasm Server Runner,A feature to install wasm server runner,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/wasm32-unknown-unknown,,,,,,Rust wasm32_unknown_unknown,A feature to install wasm32_unknown_unknown,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/wasmcloud,,,,,,Wasmcloud,A feature to install Wasmcloud,0.1.0
-ghcr.io/lee-orr/rusty-dev-containers/zellij,,,,,,Zellij,A feature to install zellij,0.1.0
+ghcr.io/lee-orr/rusty-dev-containers/bacon,,,,,,Bacon,A feature to install bacon,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/cargo-audit,,,,,,Cargo Audit,A feature to install cargo audit,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/cargo-binstall,,,,,,Cargo Binstall,A feature to install cargo binstall,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/cargo-bundle,,,,,,cargo-bundle,A feature to install cargo-bundle,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/cargo-deny,,,,,,Cargo Deny,A feature to install cargo deny,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/cargo-expand,,,,,,Cargo Expand,A feature to install cargo expand,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/cargo-llvm-cov,,,,,,Cargo LLVM Cov,A feature to install cargo-llvm-cov,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/cargo-make,,,,,,cargo-make,A feature to install cargo-make,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/cargo-mobile,,,,,,cargo-mobile,A feature to install cargo-mobile,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/cargo-nextest,,,,,,cargo-nextest,A feature to install cargo-nextest,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/cargo-watch,,,,,,Cargo Watch,A feature to install cargo watch,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/cargo-web,,,,,,Cargo Web,A feature to install cargo web,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/cosmonic,,,,,,Cosmonic,A feature to install Cosmonic,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/dexterous_developer,,,,,,Dexterous Developer,"A feature to install the dexterous_developer cli, a hot reload system for the bevy game engine, as well as the dependencies for compiling bevy on linux.",0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/dioxus,,,,,,Dioxus,A feature to install dioxus,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/fermyon-spin,,,,,,Fermyon Spin,A feature to install Fermyon Spin,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/helix,,,,,,Helix,A feature to install Helix,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/honggfuzz,,,,,,Honggfuzz,A feature to install honggfuzz,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/mprocs,,,,,,Mprocs,A feature to install mprocs,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/rust_windows_msvc,,,,,,Rust Windows MSVC,"A feature to install xwin & the x86_64-pc-windows-msvc target, allowing cross compilation of windows executables",0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/sccache,,,,,,sccache,A feature to install sccache,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/spin-message-trigger,,,,,,Spin Message Trigger,A feature to install spin message trigger,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/wasm-bindgen-cli,,,,,,wasm bindgen cli,A feature to install wasm-bingen-cli,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/wasm-server-runner,,,,,,Wasm Server Runner,A feature to install wasm server runner,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/wasm32-unknown-unknown,,,,,,Rust wasm32_unknown_unknown,A feature to install wasm32_unknown_unknown,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/wasmcloud,,,,,,Wasmcloud,A feature to install Wasmcloud,0.1.8
+ghcr.io/lee-orr/rusty-dev-containers/zellij,,,,,,Zellij,A feature to install zellij,0.1.8
 ghcr.io/brokeyourbike/devcontainer-features/mockery-go,,,,,,mockery (Go),A mock code autogenerator for Golang.,0.2.0
 ghcr.io/brokeyourbike/devcontainer-features/reflex,,,,,,reflex,Reflex is a small tool to watch a directory and rerun a command when certain files change.,0.2.0
 ghcr.io/brokeyourbike/devcontainer-features/staticcheck,,,,,,Staticcheck,Staticcheck is a state of the art linter for the Go programming language.,0.2.0
