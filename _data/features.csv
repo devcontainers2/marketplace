@@ -942,6 +942,7 @@ ghcr.io/cirolosapio/devcontainers-features/alpine-php-mysql,https://github.com/c
 ghcr.io/cirolosapio/devcontainers-features/alpine-php-pcntl,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-pcntl,,,,,alpine-php-pcntl,Installs pcntl extension for php on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-php-pgsql,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-pgsql,,,,,alpine-php-pgsql,Installs pgsql driver for php on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-php-posix,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-posix,,,,,alpine-php-posix,Installs posix extension for php on alpine,0.0.1
+ghcr.io/cirolosapio/devcontainers-features/alpine-php-soap,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-soap,,,,,alpine-php-soap,Installs soap for php on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-php-xdebug,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-xdebug,,,,,alpine-php-xdebug,Installs php xdebug on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-php-zip,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-php-zip,,,,,alpine-php-zip,Installs zip for php on alpine,0.0.1
 ghcr.io/cirolosapio/devcontainers-features/alpine-phpstorm-libs,https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-phpstorm-libs,,,,,alpine-phpstorm-libs,Installs phpstorm required libs on alpine,0.0.1
